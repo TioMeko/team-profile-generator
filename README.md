@@ -14,13 +14,14 @@
   - [Questions](#questions)
 
   ## Description
-  This Team Profile Generator can be used to create a team based off your inputs right in your terminal. When ran, you will be prompted with a series of questions and when they are all answered, a HTML page will be generated with the information supplied.
+  This team profile generator can be used to create a team based off your inputs right in your terminal. When ran, you will be prompted with a series of questions and when they are all answered, a HTML page will be generated with the information supplied.
 
   ## Demo
   
-  
+  https://user-images.githubusercontent.com/61386052/221914826-78cb28cf-690f-4657-9360-e29dbb148e42.mp4
 
   ### Prerequisites
+
   * npm >= v8.15.1
   * node = v16.
   
